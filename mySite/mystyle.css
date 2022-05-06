@@ -1,0 +1,58 @@
+/*Global*/
+*{
+    margin: 0;
+}
+body{  
+    font-family: 'Quicksand', sans-serif;
+    background-color: silver;
+    color: #000000;
+    }
+    /*utilities*/
+    .container{
+        width:70%;
+        margin-right:auto;
+        margin-left:auto;
+    }
+        /*header*/
+    header{
+            background-image: url(https://th.bing.com/th/id/OIP.qzQ0AexBoCOu2fBbm_WE0AHaEL?w=320&h=180&c=7&r=0&o=5&pid=1.7);
+            height: 50vh;
+            background-position: center center;
+            background-size: cover;
+    <header h1{
+        font-size: 140px;
+        color: red;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 2px;
+        word-spacing: 15px;
+        text-shadow: 1px 3px yellow  
+        
+
+   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 }/*menu*/
+  nav.color: #ffffff;
+      padding: 20px;
+  }
+  nav a{
+      display: inline-block;
+      margin-right: 20px;
+      text-decoration: none;
+      color: yellow;
+  }
+  nav.menu a{
+      font-size: 16px;
+  }
+  footer nav a{
+      font-size: 13px;
+  }
+/*index main*/
+div.services{
+    background-color: dedede;
+    /*t r b l*/
+    margin:10px 0 10px 0;
+    border-radius: ;
+    
+
+}
